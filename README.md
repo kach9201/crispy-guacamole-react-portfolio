@@ -1,7 +1,7 @@
 # crispy-guacamole-react-portfolio
 
 Screenshots
-(https://github.com/kach9201/crispy-guacamole-react-portfolio/blob/main/src/assets/Screenshot%20(18).png)
+![](https://github.com/kach9201/crispy-guacamole-react-portfolio/blob/main/src/assets/Screenshot%20(18).png)
 
 Installation 
 

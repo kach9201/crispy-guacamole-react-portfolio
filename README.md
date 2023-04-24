@@ -2,6 +2,9 @@
 
 Screenshots
 ![](https://github.com/kach9201/crispy-guacamole-react-portfolio/blob/main/src/assets/Screenshot%20(18).png)
+![](https://github.com/kach9201/crispy-guacamole-react-portfolio/blob/main/src/assets/Screenshot%20(19).png)
+![](https://github.com/kach9201/crispy-guacamole-react-portfolio/blob/main/src/assets/Screenshot%20(20).png)
+![](https://github.com/kach9201/crispy-guacamole-react-portfolio/blob/main/src/assets/Screenshot%20(21).png)
 
 Installation 
 

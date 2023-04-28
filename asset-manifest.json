@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/crispy-guacamole-react-portfolio.git/static/css/main.c8938f08.css",
+    "main.js": "/crispy-guacamole-react-portfolio.git/static/js/main.c0ff3082.js",
+    "static/js/787.f7e1a004.chunk.js": "/crispy-guacamole-react-portfolio.git/static/js/787.f7e1a004.chunk.js",
+    "static/media/anas-alshanti-feXpdV001o4-unsplash.jpg": "/crispy-guacamole-react-portfolio.git/static/media/anas-alshanti-feXpdV001o4-unsplash.3f30eb814f6a8b1da6e9.jpg",
+    "static/media/NoteTaker.png": "/crispy-guacamole-react-portfolio.git/static/media/NoteTaker.3de9efcf5f9f5bd0208b.png",
+    "static/media/Profile_Pic.jpg": "/crispy-guacamole-react-portfolio.git/static/media/Profile_Pic.ea868463d274a34175e9.jpg",
+    "static/media/Resume.png": "/crispy-guacamole-react-portfolio.git/static/media/Resume.bd0190c72224327aa4f6.png",
+    "index.html": "/crispy-guacamole-react-portfolio.git/index.html",
+    "main.c8938f08.css.map": "/crispy-guacamole-react-portfolio.git/static/css/main.c8938f08.css.map",
+    "main.c0ff3082.js.map": "/crispy-guacamole-react-portfolio.git/static/js/main.c0ff3082.js.map",
+    "787.f7e1a004.chunk.js.map": "/crispy-guacamole-react-portfolio.git/static/js/787.f7e1a004.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c8938f08.css",
+    "static/js/main.c0ff3082.js"
+  ]
+}
